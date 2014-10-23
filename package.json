@@ -1,0 +1,12 @@
+{
+  "name": "cf-npm-demo",
+  "version": "0.1.0",
+  "description": "testing 1 2 3",
+  "homepage": "https://github.com/ascott1/cf-npm-demo",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ascott1/cf-npm-demo.git"
+  },
+  "author": "A Scott",
+  "license": "Public Domain"
+}
